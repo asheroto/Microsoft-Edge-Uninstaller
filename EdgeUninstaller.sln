@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GUI", "GUI\GUI.vbproj", "{FBAF830F-1211-4868-BD54-23BA9F65DA11}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EdgeUninstallerGUI", "EdgeUninstallerGUI\EdgeUninstallerGUI.vbproj", "{FBAF830F-1211-4868-BD54-23BA9F65DA11}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Command Line", "Command Line\Command Line.vbproj", "{DDF79657-AA2A-46BA-960A-A3D863013A90}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EdgeUninstallerCMD", "EdgeUninstallerCMD\EdgeUninstallerCMD.vbproj", "{DDF79657-AA2A-46BA-960A-A3D863013A90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
